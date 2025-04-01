@@ -1,0 +1,10 @@
+Milestones written individually(Total = 40 pts)
+
+[ ] Research existing sports APIs and choose one to use — 5 pts
+[ ] Create basic C++ program that takes user input for player name — 5 pts
+[ ] Set up API call or mock call with hardcoded stats for testing — 6 pts
+[ ] Design simple terminal output format for stats and highlights — 4 pts
+[ ] Implement one prototype feature (e.g., display stats for a player) — 6 pts
+[ ] Collaborate with group via shared Git repo — 4 pts
+[ ] Time log completed and kept up-to-date — 6 pts
+[ ] Short report and reflection written — 4 pts
