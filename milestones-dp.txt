@@ -1,0 +1,15 @@
+Daniel Phan
+12 pts – Coding
+For writing code that works and helps build the project. This is the main feature or part you worked on.
+
+10 pts – GitHub Stuff
+For pushing your code to GitHub and keeping it updated. Includes commits, maybe branches, and just showing your work.
+
+6 pts – Time Log / Notes
+For writing down what you did and when. Can be a time log or quick notes that explain your progress.
+
+6 pts – Working Demo
+Your part works when we run the project. Doesn’t have to be perfect but should do what it’s supposed to.
+
+6 pts – Teamwork
+For helping your group, doing your part, and communicating. Just being a solid team member.
