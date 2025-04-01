@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    string name;
+    cout << "Enter player name: ";
+    getline(cin, name);
+
+    cout << "Showing stats for " << name << "..." << endl;
+    cout << "Points Per Game: 27.3" << endl;
+    cout << "Rebounds Per Game: 8.1" << endl;
+    cout << "Coverage: Excellent shooting performance in last game!" << endl;
+
+    return 0;
+}
